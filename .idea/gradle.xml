@@ -8,7 +8,12 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/dbflow_test" />
+            <option value="$PROJECT_DIR$/greendao_test" />
+            <option value="$PROJECT_DIR$/objectbox_test" />
+            <option value="$PROJECT_DIR$/ormlite_test" />
+            <option value="$PROJECT_DIR$/ream_test" />
+            <option value="$PROJECT_DIR$/room_test" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
