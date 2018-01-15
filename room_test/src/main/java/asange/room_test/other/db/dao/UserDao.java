@@ -7,7 +7,7 @@ import android.arch.persistence.room.Query;
 
 import java.util.List;
 
-import asange.room_test.other.db.model.User;
+import asange.room_test.other.db.entity.User;
 
 @Dao
 public interface UserDao {

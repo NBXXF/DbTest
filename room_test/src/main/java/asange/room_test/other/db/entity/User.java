@@ -1,4 +1,4 @@
-package asange.room_test.other.db.model;
+package asange.room_test.other.db.entity;
 
 import android.arch.persistence.room.ColumnInfo;
 import android.arch.persistence.room.Entity;

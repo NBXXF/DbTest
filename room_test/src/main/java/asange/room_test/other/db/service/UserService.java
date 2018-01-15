@@ -6,7 +6,7 @@ import android.content.Context;
 import java.util.List;
 
 import asange.room_test.other.db.UserDb;
-import asange.room_test.other.db.model.User;
+import asange.room_test.other.db.entity.User;
 
 /**
  * @author youxuan  E-mail:xuanyouwu@163.com

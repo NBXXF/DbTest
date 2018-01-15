@@ -1,4 +1,4 @@
-package asange.room_test.other.db;
+package asange.room_test.model;
 
 /**
  * @author youxuan  E-mail:xuanyouwu@163.com
@@ -7,5 +7,5 @@ package asange.room_test.other.db;
  * @Company Beijing icourt
  * @date createTime：2018/1/15
  */
-public class test {
+public class Testmodel {
 }

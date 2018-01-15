@@ -11,7 +11,7 @@ import java.util.List;
 import java.util.concurrent.Callable;
 
 import asange.room_test.R;
-import asange.room_test.other.db.model.User;
+import asange.room_test.other.db.entity.User;
 import asange.room_test.other.db.service.UserService;
 import io.reactivex.Observable;
 import io.reactivex.android.schedulers.AndroidSchedulers;

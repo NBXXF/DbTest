@@ -7,7 +7,7 @@ import com.asange.recyclerviewadapter.BaseRecyclerAdapter;
 import com.asange.recyclerviewadapter.BaseViewHolder;
 
 import asange.room_test.R;
-import asange.room_test.other.db.model.User;
+import asange.room_test.other.db.entity.User;
 
 /**
  * @author youxuan  E-mail:xuanyouwu@163.com

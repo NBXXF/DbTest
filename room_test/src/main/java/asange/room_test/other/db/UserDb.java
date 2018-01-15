@@ -4,7 +4,7 @@ import android.arch.persistence.room.Database;
 import android.arch.persistence.room.RoomDatabase;
 
 import asange.room_test.other.db.dao.UserDao;
-import asange.room_test.other.db.model.User;
+import asange.room_test.other.db.entity.User;
 
 /**
  * @author youxuan  E-mail:xuanyouwu@163.com
