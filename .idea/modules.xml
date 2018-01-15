@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/greendao_test/greendao_test.iml" filepath="$PROJECT_DIR$/greendao_test/greendao_test.iml" />
       <module fileurl="file://$PROJECT_DIR$/objectbox_test/objectbox_test.iml" filepath="$PROJECT_DIR$/objectbox_test/objectbox_test.iml" />
       <module fileurl="file://$PROJECT_DIR$/ormlite_test/ormlite_test.iml" filepath="$PROJECT_DIR$/ormlite_test/ormlite_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/realm_test/realm_test.iml" filepath="$PROJECT_DIR$/realm_test/realm_test.iml" />
       <module fileurl="file://$PROJECT_DIR$/realm_test/ream_test.iml" filepath="$PROJECT_DIR$/realm_test/ream_test.iml" />
       <module fileurl="file://$PROJECT_DIR$/room_test/room_test.iml" filepath="$PROJECT_DIR$/room_test/room_test.iml" />
     </modules>

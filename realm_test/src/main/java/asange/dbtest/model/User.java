@@ -12,7 +12,7 @@ import io.realm.annotations.PrimaryKey;
  */
 public class User extends RealmObject {
     @PrimaryKey
-    public String id;
+    public int id;
     public String name;
     public int age;
     public String phone;
@@ -20,7 +20,7 @@ public class User extends RealmObject {
     public User() {
     }
 
-    public User(String id, String name, int age, String phone) {
+    public User(int id, String name, int age, String phone) {
         this.id = id;
         this.name = name;
         this.age = age;
