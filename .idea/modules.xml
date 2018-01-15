@@ -3,11 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DbTest.iml" filepath="$PROJECT_DIR$/DbTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ream_test/app.iml" filepath="$PROJECT_DIR$/ream_test/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/dbflow_test/dbflow_test.iml" filepath="$PROJECT_DIR$/dbflow_test/dbflow_test.iml" />
       <module fileurl="file://$PROJECT_DIR$/greendao_test/greendao_test.iml" filepath="$PROJECT_DIR$/greendao_test/greendao_test.iml" />
       <module fileurl="file://$PROJECT_DIR$/objectbox_test/objectbox_test.iml" filepath="$PROJECT_DIR$/objectbox_test/objectbox_test.iml" />
       <module fileurl="file://$PROJECT_DIR$/ormlite_test/ormlite_test.iml" filepath="$PROJECT_DIR$/ormlite_test/ormlite_test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ream_test/app.iml" filepath="$PROJECT_DIR$/ream_test/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/realm_test/ream_test.iml" filepath="$PROJECT_DIR$/realm_test/ream_test.iml" />
       <module fileurl="file://$PROJECT_DIR$/room_test/room_test.iml" filepath="$PROJECT_DIR$/room_test/room_test.iml" />
     </modules>
   </component>

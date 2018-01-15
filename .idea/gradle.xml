@@ -12,7 +12,7 @@
             <option value="$PROJECT_DIR$/greendao_test" />
             <option value="$PROJECT_DIR$/objectbox_test" />
             <option value="$PROJECT_DIR$/ormlite_test" />
-            <option value="$PROJECT_DIR$/ream_test" />
+            <option value="$PROJECT_DIR$/realm_test" />
             <option value="$PROJECT_DIR$/room_test" />
           </set>
         </option>

@@ -2,11 +2,11 @@ apply plugin: 'com.android.application'
 apply plugin: 'realm-android'
 
 android {
-    compileSdkVersion 26
+    compileSdkVersion 27
     defaultConfig {
         applicationId "asange.dbtest"
         minSdkVersion 17
-        targetSdkVersion 26
+        targetSdkVersion 27
         versionCode 1
         versionName "1.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
@@ -28,4 +28,9 @@ dependencies {
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.1'
     implementation 'com.asange.recyclerviewadapter:lib_recyclerview_adapter:1.1.2'
     implementation 'com.android.support:recyclerview-v7:26.1.0'
+    implementation 'android.arch.lifecycle:extensions:1.0.0'
+
+//    implementation "android.arch.lifecycle:runtime:1.0.3"
+//    implementation "android.arch.lifecycle:extensions:1.0.0"
+//    annotationProcessor "android.arch.lifecycle:compiler:1.0.3"
 }
